@@ -28,3 +28,8 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
 #   Don't forget to COMMIT-and-PUSH when you are done with this module.
 #
 ########################################################################
+print(9-7+3)
+answer = 'hi' + 'bye'
+print(3*answer)
+int = 2.5
+print(int(int))
